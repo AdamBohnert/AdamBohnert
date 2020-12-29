@@ -2,7 +2,9 @@
 
 ## Social Media
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AdamBohnert?label=Follow&logo=twitter&style=for-the-badge)
+<a href="http://twitter.com/adambohnert">
+    <img src="https://img.shields.io/twitter/follow/adambohnert?label=Twitter&logo=twitter&style=for-the-badge" />
+ </a>
 
 ## Info
 
