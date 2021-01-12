@@ -1,5 +1,8 @@
 # Adam Bohnert
 
+Trying to learn while the world falls apart...
+
+
 ## Social Media
 
 <a href="http://twitter.com/adambohnert">
