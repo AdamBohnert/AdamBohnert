@@ -12,7 +12,7 @@ Trying to learn while the world falls apart...
 ## Info
 
  - 😄 Pronouns: he/him/his
- - 🌱 I’m currently learning Python
+ - 🌱 I’m currently learning Django & React
  
 <!--
 **AdamBohnert/AdamBohnert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
