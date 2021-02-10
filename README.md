@@ -3,16 +3,19 @@
 Trying to learn while the world falls apart...
 
 
-## Social Media
-
 <a href="http://twitter.com/adambohnert">
     <img src="https://img.shields.io/twitter/follow/adambohnert?label=Twitter&logo=twitter&style=for-the-badge" />
  </a>
+
 
 ## Info
 
  - 😄 Pronouns: he/him/his
  - 🌱 I’m currently learning Django & React
+ 
+ 
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adambohnert&layout=compact&theme=dark)
+
  
 <!--
 **AdamBohnert/AdamBohnert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
